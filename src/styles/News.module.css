@@ -1,0 +1,17 @@
+.newsCon {
+  padding: 2rem;
+  padding-top: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+  grid-gap: 0.5rem 1 rem;
+}
+
+.news {
+  display: block;
+  width: 100%;
+}
+@media (min-device-width: 1200px) {
+  .newsCon {
+    padding-left: 10rem;
+  }
+}

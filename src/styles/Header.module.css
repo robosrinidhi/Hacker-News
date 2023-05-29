@@ -1,0 +1,11 @@
+.headerCon {
+  background-color: #ff6600;
+  border-top-width: 1rem;
+  color: azure;
+}
+
+.heading {
+  margin-top: 0;
+  letter-spacing: 1px;
+  text-align: center;
+}
